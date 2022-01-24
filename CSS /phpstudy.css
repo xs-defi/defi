@@ -164,6 +164,7 @@ body{
   margin: 10px;
    background: #fff;
    box-shadow: 0 2px 2px 0 rgba(207, 216, 221, .7);
+   height: 10em;
 }
 .services dd div h2{
     font-weight: 500;
@@ -194,6 +195,7 @@ body{
     margin-top: .5rem;
     text-align: center;
     background: #fff;  
+    height: 15em;
 }
 .product li dt{
   font-weight: 600;
