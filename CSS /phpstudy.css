@@ -175,6 +175,37 @@ body{
     text-overflow: clip;
     white-space: nowrap;
 }
+.kefu{
+  background: blue;
+  color: #fff;
+  text-align: center;
+  line-height: normal;
+  border-radius: 3em;
+  font-size: large;
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+  padding: 0.01em 1em;
+  z-index: 5;
+  cursor: pointer;
+}
+.kefu1{
+  margin: 0px;
+padding: 0.2em;
+border-style: none;
+border-width: 0px;
+font-style: normal;
+font-weight: normal;
+font-variant: normal;
+list-style: none;
+letter-spacing: normal;
+text-decoration: none;
+white-space: normal;
+word-spacing: normal;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+font-size: 24px;
+}
 .services dd div p{
   text-align: left;
   color: #999;  
